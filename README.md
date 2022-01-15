@@ -30,6 +30,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
     <img align="center" alt="PedroTomazDev-Flutter" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
+     <img align="center" alt="PedroTomazDev-Dart" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original-wordmark.svg">
     <img align="center" alt="PedroTomazDev-Python" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="right" alt="PedroTomazDev-pic" height="150" style="border-radius:50px;"
