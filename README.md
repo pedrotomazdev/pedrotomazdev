@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="teste"><h1>Teste<h1></div>
+  <script>alert('teste')</script>
