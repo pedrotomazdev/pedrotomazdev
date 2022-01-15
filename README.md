@@ -9,7 +9,10 @@
         <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
     </a>
 </div>
-<div style="display: inline_block">
+
+## 
+
+<div align="center">
     <br>
     <img align="center" alt="PedroTomazDev-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -66,5 +69,7 @@
         <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg" target="_blank">
     </a>
 </div>
+
+##
 
   ![mishmanners snake gif](https://github.com/pedrotomazdev/pedrotomazdev/blob/output/github-contribution-grid-snake.svg)
