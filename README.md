@@ -1,4 +1,4 @@
-## Saldações! Meu nome é Pedro Tomaz, mas pode me chamar de Nenza :)
+## Saudações! Meu nome é Pedro Tomaz, mas pode me chamar de Nenza :)
 <div align="center">
     <a href="https://github.com/pedrotomazdev">
         <img height="200em"
