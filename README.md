@@ -65,5 +65,5 @@
     <a href="https://wakatime.com/@pedrotomazdev" target="_blank">
         <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg" target="_blank">
     </a>
-
+![Snake animation](https://github.com/pedrotomazdev/pedrotomazdev/blob/output/github-contribution-grid-snake.svg)
 </div>
