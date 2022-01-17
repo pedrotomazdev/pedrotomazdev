@@ -1,12 +1,12 @@
 ## Saudações! Meu nome é Pedro Tomaz, mas pode me chamar de Nenza :)
 <div align="center">
     <a href="https://github.com/pedrotomazdev">
+        <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
+        <br>
         <img height="200em"
             src="https://github-readme-stats.vercel.app/api?username=pedrotomazdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
         <img height="200em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotomazdev&theme=gotham" />
-        <br>
-        <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
     </a>
 </div>
 
@@ -74,4 +74,4 @@
 
 ##
 
-  ![mishmanners snake gif](https://github.com/pedrotomazdev/pedrotomazdev/blob/output/github-contribution-grid-snake.svg)
+<!--   ![mishmanners snake gif](https://github.com/pedrotomazdev/pedrotomazdev/blob/output/github-contribution-grid-snake.svg) -->
