@@ -68,7 +68,7 @@
     </a>
     <br>
     <a target="_blank" href="https://wakatime.com/@pedrotomazdev" target="_blank">
-        <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg&style=plastic" target="_blank">
+        <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg" target="_blank">
     </a>
 </div>
 
