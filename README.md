@@ -1,6 +1,6 @@
 ## Saudações! Meu nome é Pedro Tomaz, mas pode me chamar de Nenza :)
 <div align="center">
-    <a target="_blank" href="https://github.com/pedrotomazdev">
+    <a href="https://github.com/pedrotomazdev">
         <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
         <br>
         <img height="210em"
@@ -42,32 +42,32 @@
 ##
 
 <div>
-    <a target="_blank" href="https://www.facebook.com/pedro.tomaz.129/" target="_blank">
+    <a href="https://www.facebook.com/pedro.tomaz.129/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
             target="_blank">
     </a>
-    <a target="_blank" href="https://www.instagram.com/tomaz069/" target="_blank">
+    <a href="https://www.instagram.com/tomaz069/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank">
     </a>
-    <a target="_blank" href="https://twitter.com/TomazFagundes" target="_blank">
+    <a href="https://twitter.com/TomazFagundes" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
             target="_blank">
     </a>
-    <a target="_blank" href="https://discord.com/users/772884466514657310" target="_blank">
+    <a href="https://discord.com/users/772884466514657310" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
             target="_blank">
     </a>
-    <a target="_blank" href="mailto:contatopedrotomazdev@gmail.com">
+    <a href="mailto:contatopedrotomazdev@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             target="_blank">
     </a>
-    <a target="_blank" href="www.linkedin.com/in/pedro-tomaz" target="_blank">
+    <a href="www.linkedin.com/in/pedro-tomaz" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank">
     </a>
     <br>
-    <a target="_blank" href="https://wakatime.com/@pedrotomazdev" target="_blank">
+    <a href="https://wakatime.com/@pedrotomazdev" target="_blank">
         <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg" target="_blank">
     </a>
 </div>
