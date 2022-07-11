@@ -35,7 +35,7 @@
     <img align="center" alt="PedroTomazDev-Python" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="right" alt="PedroTomazDev-pic" height="150" style="border-radius:50px;"
-        src="https://i.pinimg.com/originals/64/a6/b8/64a6b818a118ae6a547e4c6c5bf27142.gif">
+        src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif">
 
 </div>
 
