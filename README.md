@@ -1,8 +1,8 @@
 ## Saudações! Meu nome é Pedro Tomaz, mas pode me chamar de Nenza :)
 <div align="center">
     <a href="https://github.com/pedrotomazdev">
-        <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
-        <br>
+        <!-- <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
+        <br> -->
         <img height="210em"
             src="https://github-readme-stats.vercel.app/api?username=pedrotomazdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
         <img height="210em"
