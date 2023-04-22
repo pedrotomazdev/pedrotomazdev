@@ -4,6 +4,8 @@
 		href="https://github.com/pedrotomazdev">
 		<!-- <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=pedrotomazdev&theme=gotham" />
 		        <br> -->
+		
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" height="210em">
 		<img height="210em" src="https://github-readme-stats.vercel.app/api?username=pedrotomazdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 		<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotomazdev&theme=gotham"/>
 	</a>
