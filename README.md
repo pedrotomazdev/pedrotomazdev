@@ -23,7 +23,6 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/></a>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" alt="Adobe XD"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
