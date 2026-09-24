@@ -45,19 +45,23 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 
 ### Back-end
 
-`Node.js` · `Express` · `PHP` · `Python` · `REST APIs`
+`Node.js` · `Express` · `PHP` · `Python` · `REST APIs` · `JSON`
 
 ### Banco de dados
 
 `SQLite` · `MySQL`
 
+### Templates
+
+`Liquid` · `Twig`
+
 ### E-commerce
 
 `Tray` · `Shopify` · `Nuvemshop` · `WooCommerce`
 
-### CMS & Templates
+### CMS
 
-`WordPress` · `Elementor` · `Twig`
+`WordPress` · `Elementor`
 
 ### Ferramentas & Workflow
 
@@ -66,6 +70,7 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 ### Outras tecnologias
 
 `Flutter` · `Django` · `Electron`
+
 
 ---
 
