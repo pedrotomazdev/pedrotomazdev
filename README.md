@@ -6,14 +6,15 @@ Gosto de transformar problemas em soluções simples, funcionais e fáceis de ma
 
 Tenho experiência com desenvolvimento de e-commerce e aplicações desde o front-end até APIs e bancos de dados, trabalhando tanto com projetos existentes quanto com aplicações desenvolvidas do zero.
 
+
 ---
+<div>
+  <br>
+  <img align="right" alt="Hello there!" height="150" style="border-radius: 12px;" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
+</div>
 
 <div align="center">
-
-<br>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-
 </div>
 
 ---
