@@ -119,7 +119,5 @@ Utiliza conceitos de:
 * ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
 
 ---
-
-## ⚡ Caótico produtivo.
-
-### Quebrar → entender → resolver → automatizar.
+### ⚡ Caótico produtivo.
+### Quebrar → entender → melhorar → resolver → automatizar.
