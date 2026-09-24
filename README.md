@@ -49,7 +49,7 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 
 ### Banco de dados
 
-`SQLite` · `MySQL`
+`SQLite` · `MySQL` · `SQL Server`
 
 ### Templates
 
@@ -63,6 +63,10 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 
 `WordPress` · `Elementor`
 
+### Automação
+
+`VBA` · `Python`
+
 ### Ferramentas & Workflow
 
 `Git` · `GitHub` · `Postman` · `Figma` · `Linux`
@@ -70,7 +74,6 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 ### Outras tecnologias
 
 `Flutter` · `Django` · `Electron`
-
 
 ---
 
