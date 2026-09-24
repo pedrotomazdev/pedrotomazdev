@@ -1,77 +1,117 @@
-## Saudações! Meu nome é Pedro Tomaz, mas pode me chamar de **Nenza** 😄
+# Olá! Eu sou o Pedro Tomaz, mas pode me chamar de **Nenza** 👋
+
+Sou **desenvolvedor web** com foco em desenvolvimento de interfaces, e-commerce e aplicações web/mobile.
+
+Gosto de transformar problemas em soluções simples, funcionais e fáceis de manter — principalmente quando envolve **código, automação, integração de sistemas e debugging**.
+
+Tenho experiência com desenvolvimento de e-commerce e aplicações desde o front-end até APIs e bancos de dados, trabalhando tanto com projetos existentes quanto com aplicações desenvolvidas do zero.
+
+---
 
 <div align="center">
-  <a href="https://github.com/pedrotomazdev" target="_blank">
-    <img height="210em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=pedrotomazdev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
-    <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotomazdev&theme=gotham&layout=compact" />
-  </a>
+
+<br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+
 </div>
 
-<img align="right" alt="PedroTomazDev-pic" height="150" style="border-radius: 12px;" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
+---
+
+## 🧑‍💻 Sobre mim
+
+* 💻 Desenvolvedor web desde **2019**
+* 🛒 Experiência com **e-commerce e plataformas de lojas virtuais**
+* 🧩 Desenvolvimento e manutenção de projetos **do zero e existentes**
+* 🔌 Integração de sistemas através de **APIs REST**
+* 📱 Desenvolvimento de aplicações mobile com **React Native e Expo**
+* 🗄️ Experiência com bancos de dados relacionais e **SQLite**
+* ⚙️ Desenvolvimento de back-end com **Node.js e Express**
+* 🎨 Interfaces utilizando **HTML, CSS, JavaScript e Tailwind CSS**
+* 🐛 Gosto especialmente de **debugging, resolução de problemas e otimização**
+* 🔧 Sempre buscando automatizar processos repetitivos e simplificar código
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="SASS"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" alt="Photoshop"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" alt="Flutter"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/></a>
-</p>
+### Front-end
 
-<details>
-<summary>🧩 Outras ferramentas</summary>
+`HTML5` · `CSS3` · `JavaScript` · `jQuery` · `SCSS / SASS` · `Tailwind CSS`
 
-<p>
-  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" alt="Django"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" alt="Electron"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" alt="Illustrator"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" width="40" alt="InVision"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/></a>
-</p>
+### Mobile
 
-</details>
+`React Native` · `Expo` · `Expo Router` · `NativeWind`
 
----
+### Back-end
 
-### 📬 Vamos conectar?
+`Node.js` · `Express` · `PHP` · `Python` · `REST APIs`
 
-<p>
-  <a href="https://www.facebook.com/pedro.tomaz.129/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tomaz069/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/TomazFagundes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/772884466514657310" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:pedrotomazdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-tomaz/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-  <a href="https://wakatime.com/@pedrotomazdev" target="_blank">
-    <img src="https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg" />
-  </a>
-</p>
+### Banco de dados
+
+`SQLite` · `MySQL`
+
+### E-commerce
+
+`Tray` · `Shopify` · `Nuvemshop` · `WooCommerce`
+
+### CMS & Templates
+
+`WordPress` · `Elementor` · `Twig`
+
+### Ferramentas & Workflow
+
+`Git` · `GitHub` · `Postman` · `Figma` · `Linux`
+
+### Outras tecnologias
+
+`Flutter` · `Django` · `Electron`
 
 ---
 
-<!-- 🐍 Snake contribution grid (ative se quiser) -->
-<!-- ![snake gif](https://github.com/pedrotomazdev/pedrotomazdev/blob/output/github-contribution-grid-snake.svg) -->
+## 🚀 Projetos
+
+### 🏠 NenzaHome
+
+Aplicação para gerenciamento doméstico desenvolvida com **React Native + Expo**, com suporte a:
+
+* Casas e membros
+* Listas de compras
+* Produtos
+* Tarefas
+* Contas e pagamentos
+* Pets
+* Funcionamento offline
+* Sincronização com servidor local
+* SQLite
+* API REST
+
+### 🧠 NenzaBrain
+
+Assistente pessoal integrado ao Discord, desenvolvido para interagir com aplicações e serviços próprios através de ferramentas e APIs.
+
+Utiliza conceitos de:
+
+* Agentes e ferramentas
+* Integração com LLMs
+* APIs REST
+* Automação
+* Memória e contexto
+* Processamento de dados
+
+---
+
+## 📬 Vamos conectar?
+
+* 💼 **LinkedIn:** [Pedro Tomaz](https://www.linkedin.com/in/pedro-tomaz/)
+* 🐙 **GitHub:** [@pedrotomazdev](https://github.com/pedrotomazdev)
+* 💬 **Discord:** [Nenza](https://discord.com/users/772884466514657310)
+* 📸 **Instagram:** [@tomaz069](https://www.instagram.com/tomaz069/)
+* 📧 **E-mail:** [pedrotomazdev@gmail.com](mailto:pedrotomazdev@gmail.com)
+* ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
+
+---
+
+## ⚡ Caótico produtivo.
+
+### Quebrar → entender → resolver → automatizar.
