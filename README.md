@@ -10,7 +10,7 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 ---
 <div>
   <br>
-  <img align="right" alt="Hello there!" height="150" style="border-radius: 12px;" src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" />
+  <img align="right" alt="Hello there!" height="150" style="border-radius: 12px;" src="https://c.tenor.com/hldiGem8HtkAAAAd/tenor.gif" />
 </div>
 
 <div align="center">
