@@ -122,3 +122,4 @@ Utiliza conceitos de:
 ---
 ### ⚡ Caótico produtivo.
 ### Quebrar → entender → melhorar → resolver → automatizar.
+[![wakatime](https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg)](https://wakatime.com/@6f7e1f36-a549-4f09-8c15-5d4a67950bdf)
