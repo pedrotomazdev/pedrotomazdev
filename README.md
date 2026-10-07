@@ -115,7 +115,7 @@ Utiliza conceitos de:
 * 💼 **LinkedIn:** [Pedro Tomaz](https://www.linkedin.com/in/pedro-tomaz/)
 * 🐙 **GitHub:** [@pedrotomazdev](https://github.com/pedrotomazdev)
 * 💬 **Discord:** [Nenza](https://discord.com/users/772884466514657310)
-* 📸 **Instagram:** [@tomaz069](https://www.instagram.com/tomaz069/)
+* 📸 **Instagram:** [@tomaz_dev](https://www.instagram.com/tomaz_dev/)
 * 📧 **E-mail:** [pedrotomazdev@gmail.com](mailto:pedrotomazdev@gmail.com)
 * ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
 
