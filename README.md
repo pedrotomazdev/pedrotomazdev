@@ -1,20 +1,22 @@
 # Olá! Eu sou o Pedro Tomaz, mas pode me chamar de **Nenza** 👋
 
-Sou **desenvolvedor web** com foco em desenvolvimento de interfaces, e-commerce e aplicações web/mobile.
+Sou **desenvolvedor web** com foco em interfaces, e-commerce e aplicações web/mobile.
 
-Gosto de transformar problemas em soluções simples, funcionais e fáceis de manter — principalmente quando envolve **código, automação, integração de sistemas e debugging**.
+Gosto de transformar problemas em soluções simples, funcionais e fáceis de manter — principalmente quando envolvem **código, automação, integração de sistemas e debugging**.
 
-Tenho experiência com desenvolvimento de e-commerce e aplicações desde o front-end até APIs e bancos de dados, trabalhando tanto com projetos existentes quanto com aplicações desenvolvidas do zero.
+Tenho experiência com desenvolvimento de e-commerce e aplicações, desde o front-end até APIs e bancos de dados, trabalhando tanto com projetos existentes quanto com aplicações desenvolvidas do zero.
 
+Atualmente, também estou explorando o universo da **eletrônica, robótica, sistemas embarcados e Internet das Coisas (IoT)**, buscando conectar software ao mundo físico através de microcontroladores, sensores e automações.
 
 ---
+
 <div>
   <br>
   <img align="right" alt="Hello there!" height="150" style="border-radius: 12px;" src="https://c.tenor.com/hldiGem8HtkAAAAd/tenor.gif" />
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
@@ -31,6 +33,9 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 * 🎨 Interfaces utilizando **HTML, CSS, JavaScript e Tailwind CSS**
 * 🐛 Gosto especialmente de **debugging, resolução de problemas e otimização**
 * 🔧 Sempre buscando automatizar processos repetitivos e simplificar código
+* 🤖 Explorando **robótica, eletrônica e Internet das Coisas (IoT)**
+* 🔬 Aprendendo **ESP32, MicroPython, sensores e sistemas embarcados**
+* ♻️ Interessado em **reaproveitamento de hardware e prototipagem eletrônica**
 
 ---
 
@@ -76,6 +81,10 @@ Tenho experiência com desenvolvimento de e-commerce e aplicações desde o fron
 
 `Flutter` · `Django` · `Electron`
 
+### 🤖 Eletrônica, Robótica & IoT — Em aprendizado
+
+`ESP32` · `MicroPython` · `Wokwi` · `GPIO` · `I2C` · `PWM` · `Sensores` · `Sistemas Embarcados` · `Prototipagem`
+
 ---
 
 ## 🚀 Projetos
@@ -108,6 +117,22 @@ Utiliza conceitos de:
 * Memória e contexto
 * Processamento de dados
 
+### ⚡ Nenza Lab — Eletrônica & IoT
+
+Espaço de experimentação e aprendizado dedicado à integração entre **software e hardware**.
+
+Atualmente explorando:
+
+* Prototipagem com ESP32 e Wokwi
+* Programação de microcontroladores com MicroPython
+* Comunicação entre sensores, displays e microcontroladores
+* Protocolos como GPIO, I2C e PWM
+* Integração de dispositivos com APIs REST e servidores locais
+* Reaproveitamento de componentes eletrônicos
+* Fundamentos de robótica e desenvolvimento de PCBs
+
+**Objetivo:** desenvolver dispositivos inteligentes, automações e soluções IoT integradas ao ecossistema Nenza.
+
 ---
 
 ## 📬 Vamos conectar?
@@ -120,6 +145,10 @@ Utiliza conceitos de:
 * ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
 
 ---
+
 ### ⚡ Caótico produtivo.
 ### Quebrar → entender → resolver → melhorar → automatizar.
+
 [![wakatime](https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg)](https://wakatime.com/@6f7e1f36-a549-4f09-8c15-5d4a67950bdf)
+
+**Nenza Corp — 𝕾𝖔 𝖞𝖔𝖚 𝖐𝖓𝖔𝖜 𝖎𝖙'𝖘 𝖌𝖔𝖔𝖉 👌**
