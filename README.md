@@ -1,154 +1,183 @@
-# Olá! Eu sou o Pedro Tomaz, mas pode me chamar de **Nenza** 👋
+# Olá! Eu sou Pedro Tomaz, mas pode me chamar de **Nenza** 👋
 
-Sou **desenvolvedor web** com foco em interfaces, e-commerce e aplicações web/mobile.
+**Desenvolvedor Front-end | E-commerce | Integrações | Aplicações Web & Mobile**
 
-Gosto de transformar problemas em soluções simples, funcionais e fáceis de manter — principalmente quando envolvem **código, automação, integração de sistemas e debugging**.
+Sou desenvolvedor web desde **2019**, com experiência profissional na criação, personalização, evolução e manutenção de interfaces e lojas virtuais.
 
-Tenho experiência com desenvolvimento de e-commerce e aplicações, desde o front-end até APIs e bancos de dados, trabalhando tanto com projetos existentes quanto com aplicações desenvolvidas do zero.
+Minha especialidade é o desenvolvimento **front-end para e-commerce**, trabalhando com plataformas como **Tray, Shopify, Nuvemshop e WooCommerce**, além de projetos WordPress e aplicações web personalizadas.
 
-Atualmente, também estou explorando o universo da **eletrônica, robótica, sistemas embarcados e Internet das Coisas (IoT)**, buscando conectar software ao mundo físico através de microcontroladores, sensores e automações.
+Também desenvolvo soluções envolvendo **APIs REST, back-end, bancos de dados e automação**, buscando conectar diferentes tecnologias para resolver problemas reais.
+
+Gosto de entender como as coisas funcionam, investigar problemas complexos e transformar processos trabalhosos em soluções simples, eficientes e fáceis de manter.
+
+Atualmente, estou expandindo meus conhecimentos em **eletrônica, sistemas embarcados e Internet das Coisas (IoT)**, explorando a integração entre software e hardware.
 
 ---
 
 <div>
-  <br>
-  <img align="right" alt="Hello there!" height="150" style="border-radius: 12px;" src="https://c.tenor.com/hldiGem8HtkAAAAd/tenor.gif" />
+  <img align="right" alt="Hello there!" height="150" src="https://c.tenor.com/hldiGem8HtkAAAAd/tenor.gif" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=pedrotomazdev&theme=gotham&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 💻 Experiência & Especialidades
 
-* 💻 Desenvolvedor web desde **2019**
-* 🛒 Experiência com **e-commerce e plataformas de lojas virtuais**
-* 🧩 Desenvolvimento e manutenção de projetos **do zero e existentes**
-* 🔌 Integração de sistemas através de **APIs REST**
-* 📱 Desenvolvimento de aplicações mobile com **React Native e Expo**
-* 🗄️ Experiência com bancos de dados relacionais e **SQLite**
-* ⚙️ Desenvolvimento de back-end com **Node.js e Express**
-* 🎨 Interfaces utilizando **HTML, CSS, JavaScript e Tailwind CSS**
-* 🐛 Gosto especialmente de **debugging, resolução de problemas e otimização**
-* 🔧 Sempre buscando automatizar processos repetitivos e simplificar código
-* 🤖 Explorando **robótica, eletrônica e Internet das Coisas (IoT)**
-* 🔬 Aprendendo **ESP32, MicroPython, sensores e sistemas embarcados**
-* ♻️ Interessado em **reaproveitamento de hardware e prototipagem eletrônica**
+- 🛒 **E-commerce:** desenvolvimento de layouts, personalização de temas, manutenção e implementação de funcionalidades em lojas virtuais.
+- 🎨 **Front-end:** interfaces responsivas, componentes reutilizáveis, estilização e integração com serviços externos.
+- 🧩 **Sistemas existentes:** manutenção, debugging, refatoração e evolução de projetos em produção.
+- 🔌 **Integrações:** consumo e desenvolvimento de APIs REST, comunicação entre aplicações e processamento de dados.
+- ⚙️ **Back-end:** desenvolvimento de serviços e aplicações com Node.js, Express e PHP.
+- 📱 **Mobile:** desenvolvimento de aplicações com React Native, Expo e NativeWind.
+- 🗄️ **Dados:** persistência local, modelagem e integração com bancos de dados relacionais.
+- 🤖 **Automação:** criação de ferramentas para reduzir tarefas repetitivas e integrar processos.
+
+**Minha abordagem:** compreender o problema, escolher uma solução adequada e construir algo que continue funcionando e possa evoluir.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack Tecnológica
 
-### Front-end
+### 🎯 Principais tecnologias
+
+**Front-end**
 
 `HTML5` · `CSS3` · `JavaScript` · `jQuery` · `SCSS / SASS` · `Tailwind CSS`
 
-### Mobile
+**E-commerce & CMS**
+
+`Tray` · `Shopify` · `Nuvemshop` · `WooCommerce` · `WordPress`
+
+**Templates & Personalização**
+
+`Liquid` · `Twig` · `PHP`
+
+### 🚀 Desenvolvimento de aplicações
+
+**Mobile**
 
 `React Native` · `Expo` · `Expo Router` · `NativeWind`
 
-### Back-end
+**Back-end & Integrações**
 
-`Node.js` · `Express` · `PHP` · `Python` · `REST APIs` · `JSON`
+`Node.js` · `Express` · `Python` · `REST APIs` · `JSON`
 
-### Banco de dados
+**Bancos de dados**
 
 `SQLite` · `MySQL` · `SQL Server`
 
-### Templates
-
-`Liquid` · `Twig`
-
-### E-commerce
-
-`Tray` · `Shopify` · `Nuvemshop` · `WooCommerce`
-
-### CMS
-
-`WordPress` · `Elementor`
-
-### Automação
-
-`VBA` · `Python`
-
-### Ferramentas & Workflow
+**Ferramentas & Workflow**
 
 `Git` · `GitHub` · `Postman` · `Figma` · `Linux`
 
-### Outras tecnologias
+### 🔬 Tecnologias complementares e em exploração
 
-`Flutter` · `Django` · `Electron`
+`Electron` · `Flutter` · `Django` · `VBA`
 
-### 🤖 Eletrônica, Robótica & IoT — Em aprendizado
+**Eletrônica & IoT**
 
-`ESP32` · `MicroPython` · `Wokwi` · `GPIO` · `I2C` · `PWM` · `Sensores` · `Sistemas Embarcados` · `Prototipagem`
+`ESP32` · `MicroPython` · `Wokwi` · `GPIO` · `I2C` · `PWM` · `Sensores` · `Prototipagem`
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
-### 🏠 NenzaHome
+### 🏠 NenzaHome — Gerenciamento doméstico
 
-Aplicação para gerenciamento doméstico desenvolvida com **React Native + Expo**, com suporte a:
+Aplicação desenvolvida com **React Native e Expo**, voltada à organização e ao gerenciamento de atividades domésticas.
 
-* Casas e membros
-* Listas de compras
-* Produtos
-* Tarefas
-* Contas e pagamentos
-* Pets
-* Funcionamento offline
-* Sincronização com servidor local
-* SQLite
-* API REST
+O projeto reúne diferentes funcionalidades em uma única aplicação, com persistência de dados e integração com serviços locais.
 
-### 🧠 NenzaBrain
+**Funcionalidades:**
 
-Assistente pessoal integrado ao Discord, desenvolvido para interagir com aplicações e serviços próprios através de ferramentas e APIs.
+- Gerenciamento de casas e membros
+- Listas de compras e produtos
+- Organização de tarefas
+- Controle de contas e pagamentos
+- Gerenciamento de pets
+- Funcionamento offline
+- Sincronização com servidor local
 
-Utiliza conceitos de:
+**Tecnologias:** `React Native` · `Expo` · `SQLite` · `REST API` · `NativeWind`
 
-* Agentes e ferramentas
-* Integração com LLMs
-* APIs REST
-* Automação
-* Memória e contexto
-* Processamento de dados
+**Desafios técnicos:** organização de dados, persistência local, sincronização e integração entre aplicações.
+
+### 🧠 NenzaBrain — Assistente e automação
+
+Assistente pessoal integrado ao **Discord**, desenvolvido para interagir com aplicações, serviços e ferramentas do ecossistema Nenza.
+
+O projeto explora o uso de modelos de linguagem como interface para executar tarefas e consultar informações de diferentes sistemas.
+
+**Principais recursos:**
+
+- Integração com LLMs
+- Ferramentas e execução de comandos
+- Comunicação entre serviços por APIs
+- Gerenciamento de contexto e memória
+- Automação de tarefas
+- Processamento e consulta de dados
+
+**Tecnologias e conceitos:** `Python` · `Node.js` · `APIs REST` · `LLMs` · `Automação`
+
+**Desafios técnicos:** comunicação entre serviços, gerenciamento de contexto e integração de ferramentas externas.
 
 ### ⚡ Nenza Lab — Eletrônica & IoT
 
-Espaço de experimentação e aprendizado dedicado à integração entre **software e hardware**.
+Laboratório pessoal de experimentação dedicado à integração entre **software, eletrônica e dispositivos físicos**.
 
-Atualmente explorando:
+O objetivo é desenvolver dispositivos inteligentes, ferramentas de automação e soluções embarcadas integradas ao ecossistema Nenza.
 
-* Prototipagem com ESP32 e Wokwi
-* Programação de microcontroladores com MicroPython
-* Comunicação entre sensores, displays e microcontroladores
-* Protocolos como GPIO, I2C e PWM
-* Integração de dispositivos com APIs REST e servidores locais
-* Reaproveitamento de componentes eletrônicos
-* Fundamentos de robótica e desenvolvimento de PCBs
+**Áreas de estudo e experimentação:**
 
-**Objetivo:** desenvolver dispositivos inteligentes, automações e soluções IoT integradas ao ecossistema Nenza.
+- Prototipagem com ESP32
+- Programação com MicroPython
+- Comunicação com sensores e displays
+- Protocolos GPIO, I2C e PWM
+- Integração com APIs REST e servidores locais
+- Monitoramento e armazenamento de dados ambientais
+- Reaproveitamento de componentes eletrônicos
+- Soldagem, prototipagem e fundamentos de PCBs
+
+**Tecnologias:** `ESP32` · `MicroPython` · `Wokwi` · `I2C` · `GPIO` · `PWM`
+
+**Objetivo:** conectar aplicações digitais a dispositivos físicos, criando soluções úteis, experimentais e evolutivas.
+
+---
+
+## 🧠 Como gosto de trabalhar
+
+Acredito que desenvolver software vai além de escrever código.
+
+Gosto de investigar o funcionamento dos sistemas, identificar gargalos, compreender suas limitações e encontrar formas de torná-los mais eficientes.
+
+Tenho especial interesse em:
+
+- **Debugging:** investigar problemas até compreender suas causas.
+- **Manutenibilidade:** organizar soluções para facilitar futuras alterações.
+- **Automação:** eliminar tarefas repetitivas sempre que fizer sentido.
+- **Integração:** conectar ferramentas e serviços para criar soluções completas.
+- **Aprendizado contínuo:** experimentar novas tecnologias e aplicar conhecimentos em projetos reais.
 
 ---
 
 ## 📬 Vamos conectar?
 
-* 💼 **LinkedIn:** [Pedro Tomaz](https://www.linkedin.com/in/pedro-tomaz/)
-* 🐙 **GitHub:** [@pedrotomazdev](https://github.com/pedrotomazdev)
-* 💬 **Discord:** [Nenza](https://discord.com/users/772884466514657310)
-* 📸 **Instagram:** [@tomaz_dev](https://www.instagram.com/tomaz_dev/)
-* 📧 **E-mail:** [pedrotomazdev@gmail.com](mailto:pedrotomazdev@gmail.com)
-* ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
+- 💼 **LinkedIn:** [Pedro Tomaz](https://www.linkedin.com/in/pedro-tomaz/)
+- 🐙 **GitHub:** [@pedrotomazdev](https://github.com/pedrotomazdev)
+- 📧 **E-mail:** [pedrotomazdev@gmail.com](mailto:pedrotomazdev@gmail.com)
+- 💬 **Discord:** [Nenza](https://discord.com/users/772884466514657310)
+- 📸 **Instagram:** [@tomaz_dev](https://www.instagram.com/tomaz_dev/)
+- ⏱️ **WakaTime:** [@pedrotomazdev](https://wakatime.com/@pedrotomazdev)
 
 ---
 
 ### ⚡ Caótico produtivo.
-### Quebrar → entender → resolver → melhorar → automatizar.
 
-[![wakatime](https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg)](https://wakatime.com/@6f7e1f36-a549-4f09-8c15-5d4a67950bdf)
+**Quebrar → entender → resolver → melhorar → automatizar.**
+
+[![WakaTime](https://wakatime.com/badge/user/6f7e1f36-a549-4f09-8c15-5d4a67950bdf.svg)](https://wakatime.com/@6f7e1f36-a549-4f09-8c15-5d4a67950bdf)
 
 **Nenza Corp — 𝕾𝖔 𝖞𝖔𝖚 𝖐𝖓𝖔𝖜 𝖎𝖙'𝖘 𝖌𝖔𝖔𝖉 👌**
